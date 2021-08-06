@@ -1,7 +1,6 @@
 import numpy as np
 
 stackSize= int(input("Enter the size of Stack:-"))
-# Stack type 'i' for integer etc.
 stack = np.array([])
 print("Stack operation keywords")
 print("'push' 'pop' 'isEmpty' 'isFull' 'peek' 'count' 'change' 'display'")
